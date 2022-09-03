@@ -1,15 +1,15 @@
 body {
-    color: rgb(135, 91, 20);
+    color: rgb(242, 204, 144);
     background-color: rgb(223, 202, 205) (255, 255, 255);
     background-color: rgb(108, 97, 86) (255, 255, 255);
 }
 .tag {
-    font-family: "Monaco", monospace; 
-    font-size: 1rem;
+    font-family: "Brush Script", monospace; 
+    font-size: 2rem;
    }  
 .jumbotron {
     background-image: url("../Resources/background.png");
     background-size: 100% 100%;
     text-align: center;
-    background-color: white 
+    background-color: rgb(84, 60, 60) 
   }
